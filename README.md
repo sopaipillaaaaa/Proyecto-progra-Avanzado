@@ -10,7 +10,7 @@ inyecciones de corriente.
 
 
 Para ejecutar el programa:
-python main.py
+python clases.py
 
 Requisitos
 Python 3.x
